@@ -1,0 +1,3 @@
+-To execute the chatbot.py
+
+    pip install streamlit==1.8.0
